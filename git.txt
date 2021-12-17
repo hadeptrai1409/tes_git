@@ -1,0 +1,9 @@
+<!-- Git -->
+++ git save account -> login account
+++ $ git config --global user.name "John Doe"
+++ $ git config --global user.email johndoe@example.com
+- git add. -> add toàn bộ file
+- git commit -m "commit"
+- git checkout -> di chuyển giữa các version
+- git push origin master -> đẩy các file commit lên nhánh
+- git pull origin master -> kéo code về
